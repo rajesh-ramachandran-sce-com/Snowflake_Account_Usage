@@ -161,6 +161,11 @@ See [replication.md](replication.md) for `REPLICATION_USAGE_HISTORY`,
 - `CORTEX_FUNCTIONS_USAGE_HISTORY` — token and credit usage for Cortex AI
   functions (LLM functions, etc.). Column set evolves quickly; verify in‑account.
 
+> **For the full AI/Cortex knowledge base** — current vs deprecated views, AISQL,
+> Cortex Code, attribution, metering service types, a semantic layer for AI agents,
+> join patterns, and a SQL library — see
+> **[ai-cortex-usage.md](ai-cortex-usage.md)**.
+
 ---
 
 ## Putting total cost together
