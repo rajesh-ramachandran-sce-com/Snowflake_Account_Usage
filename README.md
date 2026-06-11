@@ -17,6 +17,7 @@ Start here: **[docs/account-usage/README.md](docs/account-usage/README.md)**
 | Core concepts (latency, retention, schema comparison, access) | [concepts.md](docs/account-usage/concepts.md) |
 | Full categorized catalog of views | [views-catalog.md](docs/account-usage/views-catalog.md) |
 | Cost, metering & consumption | [cost-and-usage.md](docs/account-usage/cost-and-usage.md) |
+| **AI / Cortex usage (knowledge base)** | [ai-cortex-usage.md](docs/account-usage/ai-cortex-usage.md) |
 | Storage | [storage.md](docs/account-usage/storage.md) |
 | Query activity & performance | [query-and-performance.md](docs/account-usage/query-and-performance.md) |
 | Security & access | [security-and-access.md](docs/account-usage/security-and-access.md) |

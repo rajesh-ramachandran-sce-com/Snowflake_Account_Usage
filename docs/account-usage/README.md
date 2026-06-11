@@ -21,6 +21,7 @@ the related **`ORGANIZATION_USAGE`** and **`READER_ACCOUNT_USAGE`** schemas.
 | [concepts.md](concepts.md) | Core concepts: the `SNOWFLAKE` shared database, latency, data retention, `ACCOUNT_USAGE` vs `INFORMATION_SCHEMA` vs `ORGANIZATION_USAGE` vs `READER_ACCOUNT_USAGE`, and access control. |
 | [views-catalog.md](views-catalog.md) | The complete, categorized catalog of `ACCOUNT_USAGE` views with one‑line descriptions, typical latency, and retention. Start here to find the right view. |
 | [cost-and-usage.md](cost-and-usage.md) | Credit consumption / metering views (warehouses, serverless features, Snowpipe, clustering, etc.) with column detail. |
+| [ai-cortex-usage.md](ai-cortex-usage.md) | **AI / Cortex usage knowledge base**: Cortex AI functions, AISQL, Cortex Code, metering for AI service types, attribution, deprecated→current mapping, semantic layer for AI agents, join patterns, and an 18-section application-ready reference. |
 | [storage.md](storage.md) | Storage consumption views (account, database, stage, table‑level) with column detail. |
 | [query-and-performance.md](query-and-performance.md) | `QUERY_HISTORY`, `ACCESS_HISTORY`, `QUERY_ATTRIBUTION_HISTORY`, sessions, warehouse load, etc. |
 | [security-and-access.md](security-and-access.md) | Logins, sessions, users, roles, grants, and policy views. |
